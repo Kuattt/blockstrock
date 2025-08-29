@@ -1,0 +1,25 @@
+.first {
+    background-color: aqua;
+}
+#ha {
+    background-color: aqua;
+}
+
+
+.first {
+    display: inline-block;
+}
+
+#ha {
+    display: inline-block;
+}
+
+#hi {
+    margin: auto;
+    margin-top: 20px;
+    width: fit-content;
+    padding: 20px;
+    display: block;
+    
+}
+
